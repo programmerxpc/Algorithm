@@ -30,7 +30,7 @@ public class TestFactorialN {
 
     /**
      *@Author  XiaoPengCheng
-     *@Description  计算n的阶乘
+     *@Description 计算n的阶乘
      *@Date  2021-3-2 20:55
      *@Param  [n]
      *@return  long
