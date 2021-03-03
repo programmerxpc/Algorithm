@@ -2,7 +2,7 @@ package math;
 
 /**
  * @ClassName TestSquareNumber
- * @Description 打印所有不超过n（n<256）的，其平方具有对称性质的数。如11*11=121。
+ * @Description  打印所有不超过n（n<256）的，其平方具有对称性质的数。如11*11=121。
  * 输入描述:
  * 无
  * 输出描述:
